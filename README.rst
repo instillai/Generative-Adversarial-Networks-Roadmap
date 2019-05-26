@@ -10,15 +10,13 @@ GANs World Resources
 ###################################################
 
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/astorfi/Awsome-GANs-World/pulls
+    :target: https://github.com/machinelearningmindset/GANs-Roadmap/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
     :target: https://github.com/ellerbrock/open-source-badge/
 .. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
       :target: https://www.python.org/
 .. image:: https://img.shields.io/pypi/l/ansicolortags.svg
       :target: https://github.com/astorfi/Awsome-GANs-World/blob/master/LICENSE
-.. image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
-      :target: https://github.com/astorfi/Awsome-GANs-World/graphs/contributors
 .. image:: https://img.shields.io/twitter/follow/machinemindset.svg?label=Follow&style=social
       :target: https://twitter.com/machinemindset
 
