@@ -55,7 +55,7 @@ What's the point of this open source project?
 The organization of the resources is such that the user can easily find the things he/she is looking for.
 We divided the resources to a large number of categories that in the beginning one may
 have a headache!!! However, if someone knows what is being located, it is very easy to find the most related resources.
-Even if someone doesn't know what to look for, in the beginning, the general resources have
+Even if someone doesn't know what to look for, in the beginning, the list of resources have
 been provided.
 
 
