@@ -76,7 +76,7 @@ Types and Models
 ========================================
 
 .. image:: _img/GAN.png
-  :alt: asdasdasdas
+Image by: Rouzbeh Asghari Shirvani
 
 
 ----------------------------------------------------
