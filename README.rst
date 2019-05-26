@@ -69,7 +69,7 @@ Papers
 
 .. image:: _img/mainpage/article.jpeg
 
-This chapter is associated with the papers published in deep learning.
+This chapter is associated with the papers published associated with generative adversarial Networks.
 
 ========================================
 Types and Models
