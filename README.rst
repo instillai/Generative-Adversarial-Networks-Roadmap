@@ -75,7 +75,7 @@ This chapter is associated with the papers published in deep learning.
 Types and Models
 ========================================
 
-.. image:: _img/baselinegan.png
+.. image:: _img/GAN.png
 
 ----------------------------------------------------
 Core: Generative Adversarial Networks (VanillaGAN)
