@@ -76,7 +76,7 @@ Types and Models
 ========================================
 
 .. image:: _img/GAN.png
-  :caption: asd
+  :alt: asdasdasdas
 
 
 ----------------------------------------------------
