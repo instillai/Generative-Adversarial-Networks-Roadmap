@@ -76,6 +76,8 @@ Types and Models
 ========================================
 
 .. image:: _img/GAN.png
+  :caption: asd
+
 
 ----------------------------------------------------
 Core: Generative Adversarial Networks (VanillaGAN)
